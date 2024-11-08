@@ -1,3 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    wordpress.sh                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mboudrio <mboudrio@student.1337.ma>        +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/11/08 03:25:24 by mboudrio          #+#    #+#              #
+#    Updated: 2024/11/08 03:25:28 by mboudrio         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 #!/bin/bash
 
 # -p The -p option in the mkdir command stands for "parents" it has two major things to do 
